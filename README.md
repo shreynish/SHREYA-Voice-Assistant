@@ -1,4 +1,4 @@
-#**SHREYA - Voice Assistant
+#SHREYA - Voice Assistant
 
 ##Features:-
 -Ask time.
