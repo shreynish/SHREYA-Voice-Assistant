@@ -1,8 +1,8 @@
 SHREYA - Voice Assistant
 
 Features:-
->>Ask time.
->>Play Music.
+>Ask time.
+>Play Music.
 >Weather Report.
 >Send E-mail all over the voice.
 >Make your database collection of your persons to reach them instantly.
