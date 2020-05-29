@@ -11,7 +11,7 @@ Features:-
 >Open Google.
 >Take help with small computations.
 >Search anything in wikipedia.
->Quit whenever you want
+>Quit whenever you want.
 
 NOTE:-
 >Install all the required python modules and then run.
