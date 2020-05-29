@@ -1,6 +1,6 @@
-**SHREYA - Voice Assistant
+# **SHREYA - Voice Assistant
 
-##Features:-
+## Features:-
 -Ask time.
 -Play Music.
 -Weather Report.
@@ -13,6 +13,6 @@
 -Search anything in wikipedia.
 -Quit whenever you want.
 
-##NOTE:-
+## NOTE:-
 -Install all the required python modules and then run.
 -Add new features and enjoy your own assistant.
