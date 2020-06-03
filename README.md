@@ -17,6 +17,5 @@
 - Install all the required python modules and then run.
 - Add new features and enjoy your own assistant.
 
-## Programming Language
-
-- Python
+## Programming Language:-
+- Python.
